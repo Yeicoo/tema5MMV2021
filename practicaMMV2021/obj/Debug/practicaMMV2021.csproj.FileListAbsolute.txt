@@ -1,0 +1,10 @@
+C:\Users\HUAWEI 15\source\repos\tema5MMV2021\practicaMMV2021\obj\Debug\practicaMMV2021.csprojAssemblyReference.cache
+C:\Users\HUAWEI 15\source\repos\tema5MMV2021\practicaMMV2021\obj\Debug\practicaMMV2021.Form1.resources
+C:\Users\HUAWEI 15\source\repos\tema5MMV2021\practicaMMV2021\obj\Debug\practicaMMV2021.Properties.Resources.resources
+C:\Users\HUAWEI 15\source\repos\tema5MMV2021\practicaMMV2021\obj\Debug\practicaMMV2021.csproj.GenerateResource.cache
+C:\Users\HUAWEI 15\source\repos\tema5MMV2021\practicaMMV2021\obj\Debug\practicaMMV2021.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI 15\source\repos\tema5MMV2021\practicaMMV2021\bin\Debug\practicaMMV2021.exe.config
+C:\Users\HUAWEI 15\source\repos\tema5MMV2021\practicaMMV2021\bin\Debug\practicaMMV2021.exe
+C:\Users\HUAWEI 15\source\repos\tema5MMV2021\practicaMMV2021\bin\Debug\practicaMMV2021.pdb
+C:\Users\HUAWEI 15\source\repos\tema5MMV2021\practicaMMV2021\obj\Debug\practicaMMV2021.exe
+C:\Users\HUAWEI 15\source\repos\tema5MMV2021\practicaMMV2021\obj\Debug\practicaMMV2021.pdb
